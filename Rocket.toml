@@ -1,0 +1,2 @@
+[default.databases.my_postgres]
+url = "postgres://user_touse:kimmokalle@database-2.cquno1gnnrhe.eu-north-1.rds.amazonaws.com:5432/postgres"
