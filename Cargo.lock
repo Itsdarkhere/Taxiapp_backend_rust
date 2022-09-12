@@ -1749,7 +1749,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "tcon-backend"
+name = "tconbackend"
 version = "0.1.0"
 dependencies = [
  "postgres",
